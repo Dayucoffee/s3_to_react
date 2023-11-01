@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Howdy! this sample static website deployed to s3 using github actions pipeline..
+         Howdy Universe! sample static website deployed to s3 using github actions pipeline..
         </p>
         <a
           className="App-link"
